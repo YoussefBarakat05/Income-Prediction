@@ -1,12 +1,12 @@
 # Income-Prediction
 
 # Accuracy (Till Now)
-Logistic Model -> 0.84
+Logistic Model -> 0.8444
 
-SVM Model -> 0.83
+SVM Model -> 0.8405
 
-Decision Tree -> 0.79
+Decision Tree -> 0.8223
 
-Random Forest -> 0.82
+Random Forest -> 0.8437
 
-XGBoost -> 0.84
+XGBoost -> 0.8727
